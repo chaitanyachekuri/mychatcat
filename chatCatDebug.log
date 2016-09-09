@@ -1,0 +1,3 @@
+{"level":"error","message":"MongoDB Error: MongoError: connect ETIMEDOUT 185.53.178.6:61485","timestamp":"2016-09-09T18:55:45.611Z"}
+{"level":"error","message":"MongoDB Error: MongoError: connect ETIMEDOUT 185.53.178.6:61485","timestamp":"2016-09-09T18:56:16.190Z"}
+{"level":"error","message":"MongoDB Error: MongoError: getaddrinfo ENOTFOUND .mlab.com .mlab.com:61485","timestamp":"2016-09-09T18:59:23.539Z"}
